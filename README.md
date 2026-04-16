@@ -1,3 +1,5 @@
+<img width="1584" height="396" alt="Black and White Professional LinkedIn Banner" src="https://github.com/user-attachments/assets/9ebc4878-39c6-4d64-8a17-5fb01b3b4ad8" />
+
 <h1 align="center">Hi 👋, I'm Ashraf Hossen</h1>
 <h3 align="center">💻 Frontend Developer | ⚛️ React Enthusiast | 🚀 Future Founder</h3>
 
