@@ -1,7 +1,7 @@
 <img width="1584" height="396" alt="Black and White Professional LinkedIn Banner" src="https://github.com/user-attachments/assets/9ebc4878-39c6-4d64-8a17-5fb01b3b4ad8" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+there+🖐️; I+am+Ashraf+Hossen+....; Frontend+Developer;React+Enthusiast;Building+Modern+Web+Apps;&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+there+🖐️;I+am+Ashraf+Hossen+....; Frontend+Developer;React+Enthusiast;Building+Modern+Web+Apps;&center=true&width=500&height=50">
 </p>
 
 
